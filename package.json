@@ -41,7 +41,7 @@
     "semver": "^7.1.1",
     "serve-handler": "^6.1.2",
     "serve-marked": "^2.0.2",
-    "url-parse": "^1.4.7"
+    "url-parse": "^1.5.0"
   },
   "devDependencies": {
     "@types/cheerio": "^0.22.15",
